@@ -1,5 +1,5 @@
 body {
-    color:  #ff0000;
+    color:  #0400ff;
     background:  black;
     margin: 0px;
      font-family: "Playwrite AU QLD", cursive;
@@ -7,7 +7,7 @@ body {
 }
 
 header{
-    border-bottom: solid 2px rgb(59, 46, 35);
+    border-bottom: solid 2px rgb(255, 0, 0);
     padding:20px;
     font-size: 31px;
     color:rgb(255, 255, 255);

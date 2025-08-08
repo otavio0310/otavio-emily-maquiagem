@@ -1,5 +1,5 @@
 body {
-    color:  #d30808;
+    color:  #ffffff;
     background:  black;
     margin: 0px;
      font-family: "Playwrite AU QLD", cursive;
@@ -54,9 +54,9 @@ opacity:0.5;
 
 .categoria-videos img:hover{
     opacity:1.0;
-    border:1px solid rgb(136, 20, 126);
+    border:1px solid rgba(255, 0, 0, 0.89);
 }
 
 .categoria h2{
-    color:#ff0000(189, 109, 142);
+    color:#ffffff(189, 109, 142);
 }

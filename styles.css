@@ -1,5 +1,5 @@
 body {
-    color:  #a81b03;
+    color:  #d30808;
     background:  black;
     margin: 0px;
      font-family: "Playwrite AU QLD", cursive;
@@ -7,10 +7,10 @@ body {
 }
 
 header{
-    border-bottom: solid 2px rgb(145, 0, 60);
+    border-bottom: solid 2px rgb(163, 77, 7);
     padding:20px;
     font-size: 31px;
-    color:rgb(189, 109, 142);
+    color:rgb(231, 231, 231);
 }
 
 .chamada{
